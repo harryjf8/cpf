@@ -1,5 +1,7 @@
-# CPF | CoPy File
+# CPF | CoPy File 
 Copy file contents directly to your clipboard
+
+C Version for speed
 
 ## Usage:
 
